@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @milo1004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-milo1004/milo1004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Intro
+Hi, I'm Milo Chan. milo1004 is just my name in my team. I am Tech Enthusiast who loves to coding and the world of Operating Systems. 
+My first coding language learnt, is Scratch. And that's why my profile pic is Scratch. 
+But now, of course, I need to step forward and have an upgrade. I learnt Python, and it is also my favourite coding language.
