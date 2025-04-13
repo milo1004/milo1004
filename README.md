@@ -19,5 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=milo1004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Friend & Contributor:
-- **alexlam0206*: my school friend & co-founder of PythOS
+- **alexlam0206**: my school friend & co-founder of PythOS
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
