@@ -1,5 +1,5 @@
 # 💫 About
-About Me<br>Hi, I'm Milo Chan, a Hong Kong secondary school student with a passion for coding. I thrive on making simple Oses, applications and enjoy collaborating with others to bring creative ideas to life.<br>When I'm not working, you'll find me at school or just not working, duh!<br>
+About Me<br>Hi, I'm Milo Chan, a Hong Kong 13-year-old secondary school student with a passion for coding. I thrive on making simple Oses, applications and enjoy collaborating with others to bring creative ideas to life.<br>When I'm not working, you'll find me at school or just not working, duh!<br>
 
 
 ## 🌐 Socials:
